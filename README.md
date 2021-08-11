@@ -8,4 +8,4 @@
   - Don't touch the mouse while the code is running!!! (Just afk pls, don't touch your machine, if it take too long, press f12 to stop!)
 * Or.... If you stupid enough or trust me, just download the .exe file with the code.txt, put them in the same folder then run as administrator xD!
 * 3rd update, download .exe only, no other files needed!
- 
+* Event ended! This is not working anymore!
