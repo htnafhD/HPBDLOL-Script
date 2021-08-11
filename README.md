@@ -1,4 +1,4 @@
-# ToolHPBDLOL
+# HPBDLOL-Script
 
 * Tool that Automatically Enter Code for League Of Legends Client (HPBD event!)
   - Please set the windows size client to 1024x576.
